@@ -1,0 +1,5 @@
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET\bin\Release\ConvertToVBNET.exe.config
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET\bin\Release\ConvertToVBNET.exe
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET\bin\Release\ConvertToVBNET.pdb
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET\obj\Release\ConvertToVBNET.exe
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET\obj\Release\ConvertToVBNET.pdb
