@@ -1,0 +1,9 @@
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\obj\Release\ConvertToVBNET.Test.csprojResolveAssemblyReference.cache
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\bin\Release\ConvertToVBNET.Test.dll
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\bin\Release\ConvertToVBNET.Test.pdb
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\bin\Release\ConvertToVBNET.dll
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\bin\Release\nunit.framework.dll
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\bin\Release\ConvertToVBNET.pdb
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\bin\Release\nunit.framework.xml
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\obj\Release\ConvertToVBNET.Test.dll
+C:\Users\wcheng\Desktop\ConvertToVBNET\ConvertToVBNET.Test\obj\Release\ConvertToVBNET.Test.pdb

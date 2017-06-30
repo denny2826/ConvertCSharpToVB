@@ -1,0 +1,1 @@
+..\..\..\packages\NUnit.Runners.3.6.1\tools\nunit-console.exe ConvertToVBNET.Test.dll /noshadow
